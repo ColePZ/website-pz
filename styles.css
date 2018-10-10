@@ -1,0 +1,17 @@
+body {
+    background-color: #000000;
+}
+h1 {
+    color: #ff9e9e;
+}
+h3 {
+    color: #bc3838;
+    font-family: arial;
+    font-size: 120%;
+}
+a {
+    color: #4c9900;
+}
+p {
+    color: tomato;
+}
